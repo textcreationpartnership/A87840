@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A decade of grievances, presented and approved to the right honourable and High Court of Parliament, against the hierarchy or government of the Lord Bishops, and their dependant offices, by a multitude of people, who are sensible of the ruine of religion, the sinking of the state, and of the plots and insultations of enemies against both.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87840</idno>
+            <idno type="STC">Wing L1023</idno>
+            <idno type="STC">Thomason E172_5</idno>
+            <idno type="STC">ESTC R8298</idno>
+            <idno type="EEBO-CITATION">99873270</idno>
+            <idno type="PROQUEST">99873270</idno>
+            <idno type="VID">157057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A decade of grievances, presented and approved to the right honourable and High Court of Parliament, against the hierarchy or government of the Lord Bishops, and their dependant offices, by a multitude of people, who are sensible of the ruine of religion, the sinking of the state, and of the plots and insultations of enemies against both.</title>
+                  <author>Leighton, Alexander, 1568-1649, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Alexander Leighton.</note>
+                  <note>Title page has woodcut illustration with an accompanying couplet.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157057:1"/>
+            <!-- PDF PAGE 60 -->
+            <p>A DECADE OF GRIEVANCES, Preſented and approved to the Right Honourable and High Court of Parliament, againſt the Hierarchy or government of the Lord Biſhops, and their dependant offices, by a multitude of people, Who are ſenſible of the ruine of Religion, the ſinking of the State, and of the plots and inſultations of enemies againſt both.</p>
+            <figure>
+               <figDesc>clergymen with high church accoutrements fall in disorder from a tree by a church in disrepair</figDesc>
+            </figure>
+            <q>
+               <l>The tottering Prelates, with their trumpery all,</l>
+               <l>Shall moulder downe, like Elder from the wall.</l>
+            </q>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="grievances">
+            <pb facs="tcp:157057:2"/>
+            <!-- PDF PAGE 61 -->
+            <pb facs="tcp:157057:2"/>
+            <!-- PDF PAGE 61 -->
+            <head>SIONS PLEA Againſt The Prelacy.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honourable and high Senatours, you are not unacquainted how the affrighting and turmoyling troubles of the heart ſpeake in the faces of all true hearted ſubjects, expreſſing of<g ref="char:EOLhyphen"/>ten by their ſighes and grones, and alſo vented by their patheticall complaints, the moving cauſe whereof is our calamity, partly already ſeized, and partly making haſte (as it is further threatned) to ſeize upon us. But to our ſhame and confuſion of faces, we muſt confeſſe, that of the provoking cauſe of this calamity, (namely ſinne) we are nothing ſo ſenſible as we ſhould be; or if wee complaint of ſinne, yet we finde not out that Aſhteroth or maine nationall ſinne which is the conjunct or immediate working cauſe of all the evill that is upon us. When a body politique is runne all into one feſtered ſore
+<pb facs="tcp:157057:3"/>
+               <!-- PDF PAGE 62 -->
+of ſinne, and one benumming bruiſe of judgement, then the univerſall and painfull diſtemper taketh a<g ref="char:EOLhyphen"/>way the diſcerning faculty of the maſter ſore that hath bred and fed all the reſt, which indeed muſt either be ſought out and removed (as the principall cauſe) or it will never prove a cure. Though the wrath of God be revealed againſt all ungodlineſſe and unrighteouſneſſe, yet for ſome one capitall ſin eſpecially, the Lord departeth from a State, and turneth it upſide downe. This might be inſtanced in Iſrael, joyning himſelfe unto his idols, which made the Lord unto him as a moath, and unto the houſe of Iudah as rottenneſſe. This principle Iſrael underſtood, when they ſought againe and againe, and ſought out the cauſe why he fell before Benja<g ref="char:EOLhyphen"/>min. The ſame courſe took <hi>Ioſua</hi> in humbling him<g ref="char:EOLhyphen"/>ſelfe to finde out <hi>Achan,</hi> and the excommunicate thing. He might have found out, and alſo removed many other ſinnes, yet if he had not found out the thing of the curſe, he might have mourned his heart out, before he had prevailed with the Lord againſt the enemy.</p>
+            <p>How to finde out <hi>Achan,</hi> or golden wedge and Babilonian garment, <hi>hoc opus, &amp;c.</hi> for it is not ob<g ref="char:EOLhyphen"/>vious to every man: Yea this ſpirit is neither found out, nor caſt out, but by faſting, and prayer. Yet wofull experience, the common ſchoolmaſter, hath formerly diſcovered to the Chariots and horſmen of Iſraell, and now doth diſcover this very ſame to be the very cheefe cauſe of our calamitie that wee pitch upon; we do not exclude our own ſinnes, nor
+<pb facs="tcp:157057:3"/>
+               <!-- PDF PAGE 62 -->
+others ſins, for many ſins and many enditemens are againſt us; but this is the maſter ſin, as we con<g ref="char:EOLhyphen"/>ceive, and that upon this ground, that the capitall ſin of a nation is not the higeſt ſin abounding in the higheſt meaſure (againſt which there is any lawes eſtabliſhed;) but that is the maine and maſter ſinne, which is eſtabliſhed by a law. And this is that fra<g ref="char:EOLhyphen"/>ming of miſchife by a law, that the prophet ſpeak<g ref="char:EOLhyphen"/>eth of, called in another place, the commande<g ref="char:EOLhyphen"/>ment of man eſtabliſhing ſin.</p>
+            <p>Now give us leave (Right Honourable) to de<g ref="char:EOLhyphen"/>mand, what ſin is eſtabliſhed by law in this com<g ref="char:EOLhyphen"/>mon-wealth, but the hierarchy and their acoutre<g ref="char:EOLhyphen"/>ments? and therefore we verily believing by the grievances following, offer to demonſtate that the hierarchy and their houſholdſtuffe, is the capi<g ref="char:EOLhyphen"/>tall ſinne and maine cauſe why all this evill is come upon us.</p>
+            <div n="1" type="grievance">
+               <head>I.</head>
+               <p>Firſt, may it pleaſe your honours to take notice, that the calling of the Hierarchy, their dependants, offices and ceremonies, whereby they ſubſiſt, are all unlawfull and Antichriſtian.</p>
+            </div>
+            <div n="2" type="grievance">
+               <head>II.</head>
+               <p>The hierarchicall government cannot conſiſt in a nation with foundneſſe of doctrine, ſincerity of Gods worſhip, holineſſe of life, the glorious power of Chriſts government, nor with the proſperity and ſafety of the commonwealth.</p>
+            </div>
+            <div n="3" type="grievance">
+               <head>III.</head>
+               <p>The preſent Hierarchy are not aſhamed, to
+<pb facs="tcp:157057:4"/>
+                  <!-- PDF PAGE 63 -->
+beare the multitu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, that their calling is <hi>Iure divino.</hi> Bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they dare not but confeſſe, when they are put to it, that their ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling is a part of the Kings prerogative. So that they put upon God what hee abhorreth, and will hold of the K<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng when they can doe no other.</p>
+            </div>
+            <div n="4" type="grievance">
+               <head>IV.</head>
+               <p>They abuſe many w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es that power from the King, by changing, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dding, and taking away at their pleaſure, to the greevous vexation of the ſubject, the diſhonouring of his Majeſty, and the making of the laws of none effect.</p>
+            </div>
+            <div n="5" type="grievance">
+               <head>V.</head>
+               <p>The priviledges of the laws and the hierarchiall goverment cannot conſiſt together.</p>
+            </div>
+            <div n="6" type="grievance">
+               <head>VI.</head>
+               <p>The loialty of obedience to the Kings Majeſty and his laws, cannot poſſibly ſtand with the obedi<g ref="char:EOLhyphen"/>ence to the hierarchy.</p>
+            </div>
+            <div n="7" type="grievance">
+               <head>VII.</head>
+               <p>All the unparalleled changes, bloudy troubles, devaſtations, deſolations, perſecutions of the truth, from forraines or domeſticks, ſince the yeare of our Lord 600. ariſing in this Kingdome; and all the good interrupted or hindered, hath had one or more of the hierarchy, as principall cauſes of them.</p>
+            </div>
+            <div n="8" type="grievance">
+               <head>VIII.</head>
+               <p>All the fearfull evills of ſin and judgement, for the preſent reigning amongſt us, and threatning a<g ref="char:EOLhyphen"/>gainſt us (to omit the black deſolation of our ſiſter
+<pb facs="tcp:157057:4"/>
+                  <!-- PDF PAGE 63 -->
+Churches) wee conceive to bee the birth of the womb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and the nu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſlings of the breſt of the hie<g ref="char:EOLhyphen"/>rarchy.</p>
+            </div>
+            <div n="9" type="grievance">
+               <head>IX.</head>
+               <p>If the herarchy be not removed, the ſcepter of Chriſts government, namely diſciplin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, advanced to its place, there can be no healing of our ſore, no ta<g ref="char:EOLhyphen"/>king up of our controverſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with God; yea our deſolations, by his rareſt Iudgements, are like to be the aſtoniſhment of all Nations.</p>
+            </div>
+            <div n="10" type="grievance">
+               <head>X.</head>
+               <p>Laſtly, right Honourab<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>; I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you ſtrike at the hie<g ref="char:EOLhyphen"/>rarchy, removing that Aſhteroth or grand I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oll, and erect the purity of Chriſts ordinances, we are confident that there ſhall be a ceaſing from exor<g ref="char:EOLhyphen"/>bitant ſins, a removall of judgement, a recovery of Gods favour, a repairing of the breaches of the Church and Commonwealth, a redeeming of the ſtate, a daſhing Babells brats againſt the ſtones. Yea this ſhall remove the wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ked from the throne, ſtrike a terrour, and aſtoniſhment to the hearts of all for<g ref="char:EOLhyphen"/>raigne and domeſticke foes. In a word, God will goe forth with us, and ſmite our enemies. Yea a glo<g ref="char:EOLhyphen"/>rious proſperity ſhall reſt upon Zion, King, State, and Common-wealth.</p>
+               <p>Thus having laid a Dec<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de of evils ariſing as ſo many corroding ulcers out of the body of the hie<g ref="char:EOLhyphen"/>rarchy, wee wiſh your Honours might prevaile with them by faire meanes; to take <hi>Hierax</hi> for a pre<g ref="char:EOLhyphen"/>ſident without exception: who forſook the Prelacy (as <hi>Iſidore</hi> witneſſeth in his epiſtle 223.) meeerly
+<pb facs="tcp:157057:5"/>
+                  <!-- PDF PAGE 64 -->
+for the unlawfulneſſe of the calling; which calling was not then come to that height of unlawfulneſſe by many degrees that now it is. A certaine Monke being choſen Biſhop, refuſed the burthen, who after his death (as they ſay, <hi>Caeſar. Hiſterb. Illuſtr. miracl. lib.</hi> 2. <hi>cap.</hi> 29.) appeared to his friend, ſpeaking to him thus, <hi>Si Epiſcopus fuiſſem peritſſem,</hi> If I had beene a Biſhop, ſaith he, I had been dam<g ref="char:EOLhyphen"/>ned. To conclude, wee deſire to ſay no more to your Honours, but up and do what the Lord hath bidden you.</p>
+               <q>
+                  <l>Magnum iter aſcendis, ſed dat tibi gloria vires,</l>
+                  <l>Non eſt è terris mollis ad aſtra via.</l>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
